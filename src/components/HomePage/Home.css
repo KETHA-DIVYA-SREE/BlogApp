@@ -1,0 +1,88 @@
+.Article_Image{
+    min-height: 100%;
+    min-width: 100%;
+}
+
+.title{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.text {
+    text-align: justify;
+    font-size: small;
+    color: gray;
+}
+
+.MasterImage1 {
+    min-width: 100%;
+    min-height: 40vh;
+}
+
+.MasterImage2 {
+    min-width: 100%;
+    min-height: 27.5vh;
+    opacity: 0.8;
+}
+
+figcaption {
+    position: absolute;
+    bottom: 0.2rem;
+    margin-left: 0.5rem;
+    color: white;
+    font-size: 1.5em;
+}
+
+.figcaption2 {
+    font-size: 1em;
+}
+
+.Date {
+    font-size: small;
+    font-weight: 100;
+}
+
+
+
+
+
+.Stories {
+    display: flex;
+    justify-content: space-around;
+}
+
+.BlogImg{
+    min-width: 100%;
+}
+
+.adverdisementblock {
+    height: 100vh;
+    border: solid black;
+}
+
+.advertisementposition{
+    text-align: center;
+    position: relative;
+    top: 50%;
+}
+
+.PostImg {
+    min-width: 100%;
+}
+
+.post{
+    font-size: small;
+}
+
+.num{
+    color: gray;
+    font-size: xx-large;
+}
+
+.figcaption3{
+    position: absolute;
+    bottom: 25%;
+    margin-left: 25%;
+    font-size: 1.5em;
+    color: black;
+}

@@ -1,0 +1,47 @@
+.Intro{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Avatar {
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%;
+}
+
+.jambo{
+    background-color: #222222;
+    position: relative;
+}
+
+.logo {
+    width: 10rem;
+    height: 10rem;
+}
+
+.Heading {
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 50%;
+    color: white;
+    font-size: xx-large;
+}
+
+.Title {
+    padding: 20px;
+    margin-right: 0;
+    background-color: #00d8ff;
+    color: white;
+}
+
+.codeimg {
+    width: 100%;
+}
+
+.random {
+    margin-top: 1rem;
+    padding: 20px;
+    background-color: rgb(184, 178, 178);
+    color: black;
+    border-radius: 10%;
+}

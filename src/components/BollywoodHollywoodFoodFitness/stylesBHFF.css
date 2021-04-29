@@ -1,0 +1,45 @@
+.Articles{
+    justify-content: space-around;
+  }
+  
+  .Article {
+    min-width: 50%;
+    text-align: justify;
+  }
+  .ArticleImg {
+    width: 100%;
+  }
+  
+  .ArticleTitle{
+    font-size: large;
+    font-weight: bold;
+  }
+  
+  .Subtext {
+    display: flex;
+  }
+  
+  .Subtext1 {
+    font-weight: bold;
+  }
+  
+  .Advertisement{
+    border: solid black;
+    height: 75vh;
+    font-weight: bold;
+  }
+  
+  .Advtext {
+    text-align: center;
+    position: relative;
+    top: 50%;
+  }
+  
+  .Post {
+    min-width: 100%;
+  }
+
+  .SubArticle {
+    display: flex;
+    justify-content: space-between;
+  }
